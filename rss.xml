@@ -4,7 +4,7 @@
         <description><![CDATA[rocketbird]]></description>
         <link>https://thegrid.ai/rocketbird/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 23:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 23:27:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rocketbird/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/rocketbird/1f86df9b-d618-4d2f-b573-3bce136be4ce/index.html</link>
             <guid isPermaLink="false">1f86df9b-d618-4d2f-b573-3bce136be4ce</guid>
             <pubDate>Fri, 04 Mar 2016 23:10:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Testing if markdown exists]]></title>
+            <description><![CDATA[<article><h1>Testing if markdown exists</h1><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></article>]]></description>
+            <link>https://thegrid.ai/rocketbird/testing-if-markdown-exists/index.html</link>
+            <guid isPermaLink="false">8b54caf2-a8a3-4ca0-bf1e-8225e79e900f</guid>
+            <pubDate>Fri, 04 Mar 2016 23:26:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
