@@ -2,6 +2,7 @@ name: rocketbird
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.27842
+title: Rocket Bird Exploratory
 cta:
   domain: null
   bucket: null
