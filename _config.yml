@@ -1,6 +1,6 @@
 name: rocketbird
 favicon: null
-layout_spectrum: 0.74437
+layout_spectrum: 0.73889
 typography_spectrum: 0.38523
 title: Rocket Bird Exploratory
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#121c11'
-    - '#ffffff'
-    - '#77a3c6'
-    - '#635950'
-    - '#f8cb7a'
+    - '#000000'
+    - '#fcfdeb'
+    - '#b4b70e'
+    - '#4cb4d7'
+    - '#513d3c'
   brandStrength: 0
   lightness: 0
   saturation: 0
